@@ -1,3 +1,11 @@
+# ⚠️ Experimental Prototypes
+
+This GitHub organization contains experimental prototypes and proof-of-concept projects. These solutions are designed for exploration and learning purposes only.
+
+**IMPORTANT:** The code and applications in this organization are NOT production-ready and should not be deployed in any real-world use case. They may contain bugs, security vulnerabilities, or incomplete features.
+
+Use these prototypes at your own risk and solely for educational or research purposes. For production-grade solutions, please refer to our official, stable repositories or consult with our development team.
+
 Now, more than ever, innovation is critical to building a better world with and for children. We must do more collectively, we must act faster together, to design, use and scale truly transformational solutions for every child to thrive.
 Whether it’s augmented reality and drones, monitoring vaccinations in real time, or even harnessing satellites to secure access to lifegiving water, innovation drives progress for children.
 
