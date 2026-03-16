@@ -92,5 +92,3 @@ Any maintainer who is personally involved in a reported incident, or who has a c
 9. Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 3.0, stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0.
 The enforcement ladder is additionally inspired by the work of Mozilla's code of conduct team.
-
-Version 1.0 · UNICEF Venture Fund · 2026
